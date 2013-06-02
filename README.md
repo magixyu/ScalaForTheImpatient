@@ -1,0 +1,4 @@
+ScalaForTheImpatiant
+====================
+
+Exercise
